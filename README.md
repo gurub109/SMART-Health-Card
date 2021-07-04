@@ -1,6 +1,6 @@
 # SMART-Health-Card
 
-The article [Decentralized Identity (DID) and Verifiable Credentials (VC)](https://github.com/gurub109/Decentralized-Identity-and-Verifiable-Credentials) covered the need for DIDs, VCs and its related components. The present article discusses the SMART Health Card Framework and how it leverages VC technology to issue, share and validate vaccination records bound to an individual identity.
+The article [Decentralized Identity (DID) and Verifiable Credentials (VC)](https://github.com/gurub109/Decentralized-Identity-and-Verifiable-Credentials) covered the need for DIDs, VCs and its related components. This article discusses the SMART Health Card Framework and how it leverages VC technology to issue, share and validate vaccination records bound to an individual identity.
 
 ## Vaccine Credential Initiative (VCI)
 
@@ -41,6 +41,7 @@ Based on the modality of the SMART Health Card, the holder can share with the ve
 In the implementation guide (IG) the following Verifiable Credential (VC) and its sub-types are defined:
 
 * A VC designed to convey a "Health Card" which is bound to a subject's identity with their clinical data
+* Sub-types
   * A Health Card designed to convey COVID-19 details
   * A Health Card designed to convey immunization details
   * A health Card designed to convey laboratory results
