@@ -4,7 +4,7 @@ The article [Decentralized Identity (DID) and Verifiable Credentials (VC)](https
 
 ## Vaccine Credential Initiative (VCI)
 
-VCI is a voluntary coalition of public and private organizations whose charter is to empower individuals to receive vaccination records as verifiable credentials (VCs) from issuers such as pharmacy, doctor's office or state immunization registry. Individuals can use those VCs for medical purposes and to demonstrate their vaccination status to safely return to work, school, travel, etc. Participating members have developed a SMART Health Cards Framework Implementation Guide which is based on the [W3C Verifiable Credentials Standard](https://www.w3.org/TR/vc-data-model/) and [Health level 7 (HL7) SMART on FHIR Standard](https://docs.smarthealthit.org/).
+VCI is a voluntary coalition of public and private organizations whose charter is to empower individuals to receive vaccination records as verifiable credentials (VCs) from issuers such as **pharmacy, doctor's office or state immunization registry.** Individuals can use those VCs for medical purposes and to demonstrate their vaccination status to safely return to work, school, travel, etc. Participating members have developed a SMART Health Cards Framework Implementation Guide which is based on the [W3C Verifiable Credentials Standard](https://www.w3.org/TR/vc-data-model/) and [Health Level 7 (HL7) SMART on FAST Health Interoperability Resources (FHIR) Standard](https://docs.smarthealthit.org/).
 
 ## SMART Health Cards Framework
 
@@ -14,7 +14,7 @@ The framework provides an implementation guide for **"Health Cards"** which can 
 
 The [FHIR Implementation Guide](https://www.hl7.org/fhir/implementationguide.html) describes the clinical information necessary to create [SMART Health Card](https://healthwallet.cards/) identifying vaccination and laboratory testing status for infectious diseases such as [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
-The implementation guide (IG) defines how **Issuers** who are entities responsible for giving vaccinations or reporting laboratory results such as health systems, pharmacies, clinical labs, doctor offices, etc., should produce the FHIR resources. The **Holder** who received the vaccination can represent the credentials to **Verifiers** who read and analyze the FHIR resources described in the IG. The data flow follows the standard defined by [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/).
+The implementation guide (IG) defines how **Issuers** who are entities responsible for giving vaccinations or reporting laboratory results such as health systems, pharmacies, clinical labs, doctor offices, etc., should produce the FHIR resources. The **Holder** who received the vaccination can present the credentials to **Verifiers** who read and analyze the FHIR resources described in the IG. The data flow follows the standard defined by [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/).
 
 ![image](https://user-images.githubusercontent.com/26188338/124400768-2cf67100-dce2-11eb-824b-c58c9c3465dc.png)
 
