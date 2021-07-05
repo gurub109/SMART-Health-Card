@@ -23,7 +23,7 @@ Based on the modality of the SMART Health Card, the holder can share their crede
 
 ### SMART Health Card Implementation Guide (IG)
 
-The [FHIR Implementation Guide](https://www.hl7.org/fhir/implementationguide.html) and [SMART Health Card Implementation Guide (IG)](https://github.com/smart-on-fhir/health-cards) describes the clinical information necessary to create a [SMART Health Card](https://healthwallet.cards/) identifying vaccination and laboratory testing status for infectious diseases such as [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+The [FHIR Implementation Guide](http://build.fhir.org/ig/dvci/vaccine-credential-ig/branches/main/index.html) and [SMART Health Card Implementation Guide (IG)](https://github.com/smart-on-fhir/health-cards) describes the clinical information necessary to create a [SMART Health Card](https://healthwallet.cards/) identifying vaccination and laboratory testing status for infectious diseases such as [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
 The implementation guide (IG) defines how **Issuers** who are entities responsible for giving vaccinations or reporting laboratory results such as health systems, pharmacies, clinical labs, doctor offices, etc., should produce the FHIR resources. The **Holder** who received the vaccination can present the credentials to **Verifiers** who read and analyze the FHIR resources described in the IG. The data flow follows the standard defined by [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/).
 
