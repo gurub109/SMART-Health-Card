@@ -21,7 +21,7 @@ The SMART Health Cards are 2D barcode (QR code) containing the clinical informat
 
 Based on the modality of the SMART Health Card, the holder can share their credentials with the verifier just like sharing a paper copy of immunization records with a school, faxing medical records to a physician's office, or using a credit card at a restaurant. The verifier can manually scan the presented QR code or provide a self-service kiosk. 
 
-### FHIR Implementation Guide (IG)
+### SMART Health Card Implementation Guide (IG)
 
 The [FHIR Implementation Guide](https://www.hl7.org/fhir/implementationguide.html) and [SMART Health Card Implementation Guide (IG)](https://github.com/smart-on-fhir/health-cards) describes the clinical information necessary to create a [SMART Health Card](https://healthwallet.cards/) identifying vaccination and laboratory testing status for infectious diseases such as [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
