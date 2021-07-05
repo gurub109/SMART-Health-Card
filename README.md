@@ -8,7 +8,7 @@ VCI is a voluntary coalition of public and private organizations whose charter i
 
 ## SMART Health Cards Framework
 
-The framework provides an implementation guide for **"Health Cards"** which can work across organizational and jurisdictional boundaries through open standards and decentralized infrastructure.
+The [SMART Health Cards Framework](https://spec.smarthealth.cards/) provides an implementation guide for **"Health Cards"** which can work across organizational and jurisdictional boundaries through open standards and decentralized infrastructure.
 
 ### Health Card
 
