@@ -39,7 +39,7 @@ The implementation guide (IG) defines how **Issuers** who are entities responsib
 
 ### Credential Types
 
-In the implementation guide (IG) the following Verifiable Credential (VC) and its sub-types are defined:
+In the implementation guide (IG) the following [Verifiable Credential (VC) and its sub-types](http://build.fhir.org/ig/dvci/vaccine-credential-ig/branches/main/index.html#use-case-1-vaccination-credentials) are defined:
 
 * A VC designed to convey a "Health Card" which is bound to a subject's identity with their clinical data
 * Sub-types
