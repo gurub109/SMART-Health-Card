@@ -2,9 +2,9 @@
 
 The previous article [Decentralized Identity (DID) and Verifiable Credentials (VC)](https://github.com/gurub109/Decentralized-Identity-and-Verifiable-Credentials) covered the need for DIDs, VCs and its related components. This article discusses the application of Verifiable Credential (VC) technology to issue, share and validate vaccination records bound to an individual identity.
 
-## Vaccine Credential Initiative (VCI)
+## Verifiable Credential Initiative (VCI)
 
-VCI is a voluntary coalition of public and private organizations whose charter is to empower individuals to receive vaccination records as verifiable credentials (VCs) from issuers. These issuers include entities such as **pharmacies, doctor's offices or the state immunization registry.** Individuals can use the VCs for medical purposes and to demonstrate their vaccination status in order to safely return to work, school, travel, etc. Participating organizations have developed a [SMART Health Cards Framework Implementation Guide](https://github.com/smart-on-fhir/health-cards) which is based on the [W3C Verifiable Credentials Standard](https://www.w3.org/TR/vc-data-model/) and [Health Level 7 (HL7) SMART on FAST Health Interoperability Resources (FHIR) Standard](https://docs.smarthealthit.org/).
+[Verifiable Credential Initiative (VCI)](https://vci.org/) is a voluntary coalition of public and private organizations whose charter is to empower individuals to receive vaccination records as verifiable credentials (VCs) from issuers. These issuers include entities such as **pharmacies, doctor's offices or the state immunization registry.** Individuals can use the VCs for medical purposes and to demonstrate their vaccination status in order to safely return to work, school, travel, etc. Participating organizations have developed a [SMART Health Cards Framework Implementation Guide](https://github.com/smart-on-fhir/health-cards) which is based on the [W3C Verifiable Credentials Standard](https://www.w3.org/TR/vc-data-model/) and [Health Level 7 (HL7) SMART on FAST Health Interoperability Resources (FHIR) Standard](https://docs.smarthealthit.org/).
 
 ## SMART Health Cards Framework
 
